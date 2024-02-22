@@ -47,4 +47,8 @@ Ao final deve se exibir uma mensagem:
  
 
  
+<<<<<<< HEAD
 Bons estudos 😉
+=======
+Bons estudos 😉
+>>>>>>> f7c3c0c88fc47f822e50f9fefb1e8d0f4e96a0e6
